@@ -1,3 +1,3 @@
 # MergeVSRebase
-editado o texto ba bracnh-1 pelo vim
+editado o texto ba b-1 pelo vim
 
